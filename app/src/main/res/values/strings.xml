@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string-array name="nim">
+        <item>225150601111005</item>
+        <item>102</item>
+        <item>103</item>
+    </string-array>
+
+    <string-array name="nama">
+        <item>Muhammad Rafli Pradipta</item>
+        <item>Bob</item>
+        <item>Charlie</item>
+    </string-array>
+</resources>
